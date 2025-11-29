@@ -13,7 +13,7 @@ The notebook includes:
 ## Notebook
 Click below to view the full notebook:
 
-👉 **test.ipynb** (automatically rendered on GitHub)
+👉 [Click to view the notebook](test.ipynb)
 
 ## Dataset
 Included: `student_exam_scores.csv`
