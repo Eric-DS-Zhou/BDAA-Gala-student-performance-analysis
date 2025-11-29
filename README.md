@@ -17,3 +17,4 @@ Click below to view the full notebook:
 
 ## Dataset
 Included: `student_exam_scores.csv`
+Source: Dataset from Kaggle — “Analyzing Student Academic Trends”.
